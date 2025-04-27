@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["Fontlens"],
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
